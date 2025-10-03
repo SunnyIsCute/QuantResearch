@@ -18,7 +18,17 @@ Part III. Temporal Structure
 - Chapter 12 - Decompose Time Series Data
 - Chapter 13 - Use and Remove Trends
 - Chapter 14 - Use and Remove Seasonality
-- Chapter 15 - Stationarity in Time Series Data 
+- Chapter 15 - Stationarity in Time Series Data
+
+Part IV. Evaluate Models
+- Chapter 16 - Backtest Forecast Models
+- Chapter 17 - Forecasting Performance Measures
+- Chapter 18 - Persistence Model for Forecasting
+- Chapter 19 - Visualize Residual Forecast Errors
+- Chapter 20 - Reframe Time Series Forecasting Problems
+
+Part V. Forecast Models
+
 
 
 ## 🚀 How to Run
