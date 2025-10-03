@@ -28,6 +28,20 @@ Part IV. Evaluate Models
 - Chapter 20 - Reframe Time Series Forecasting Problems
 
 Part V. Forecast Models
+- Chapter 21 - A Gentle Introduction to the Box-Jenkins Method
+- Chapter 22 - Autoregression Models for Forecasting
+- Chapter 23 - Moving Average Models for Forecasting
+- Chapter 24 - ARIMA Model for Forecasting
+- Chapter 25 - Autocorrelation and Partial Autocorrelation
+- Chapter 26 - Grid Search ARIMA Model Hyperparameters
+- Chapter 27 - Save Models and Make Predictions
+- Chapter 28 - Forecast Confidence Intervals
+
+Part VI. Projects
+- Chapter 29 - Time Series Forecast Projects
+- Chapter 30 - Project: Monthly Armed Robberies in Boston
+- Chapter 31 - Project: Annual Water Usage in Baltimore
+- Chapter 32 - Project: Monthly Sales of French Champagne
 
 
 
