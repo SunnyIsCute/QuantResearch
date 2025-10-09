@@ -38,7 +38,6 @@ Part V. Forecast Models
 - Chapter 28 - Forecast Confidence Intervals
 
 Part VI. Projects
-- Chapter 29 - Time Series Forecast Projects
 - Chapter 30 - Project: Monthly Armed Robberies in Boston
 - Chapter 31 - Project: Annual Water Usage in Baltimore
 - Chapter 32 - Project: Monthly Sales of French Champagne
