@@ -1,6 +1,6 @@
 # Introduction to Time Series Forecasting with Python
 
-This folder contains my notes and Jupyter notebooks based on the book *Introduction to Time Series Forecasting with Python* by Jason Brownlee.
+This folder contains my notes and Jupyter notebooks based on the book `Introduction to Time Series Forecasting with Python` by Jason Brownlee.
 
 The goal is to reinforce concepts and provide hands-on implementations of classical and modern time series forecasting techniques using Python.
 
