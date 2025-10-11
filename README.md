@@ -7,7 +7,7 @@ QuantResearch is a repository of my notes and practice projects on quantitative 
 - Value at Risk (VaR): estimating portfolio risk and stress testing
 - Classical Linear Regression: applying regression techniques to financial data
 - Time Series Analysis: statistical tools for explosring temporal dependencies
-- 📘 Introduction to Time Series Forecasting with Python: by Jason Brownlee
+- 📘 `Introduction to Time Series Forecasting with Python` by Jason Brownlee
 
 ## 🎯 Purpose
 This repository is intended to:
