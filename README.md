@@ -9,6 +9,7 @@ QuantResearch is a collection of my notes and practice projects on quantitative 
 - Time Series Analysis: statistical tools for explosring temporal dependencies
 - 📘 Books
   - `Introduction to Time Series Forecasting with Python` by Jason Brownlee
+  - `Machine Learning Mastery with Python` by Jason Brownlee
 
 ## 🎯 Purpose
 This repository is intended to:
