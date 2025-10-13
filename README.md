@@ -1,5 +1,5 @@
 # QuantResearch
-QuantResearch is a repository of my notes and practice projects on quantitative research and financial data analysis. It covers a range of foundational topics in quantitative finance and serves both as a personal learning record and a reference for others exploring the field.
+QuantResearch is a collection of my notes and practice projects on quantitative research and financial data analysis. It explores a range of foundational topics in quantitative finance and serves as both a personal learning record and a reference for others interested in the field. The goal of this repository is to gain hands-on experience with the underlying methods and details.
 
 ## 📚 Topics Covered
 - Historical Data Download: retrieving and preprocessing market data from APIs
