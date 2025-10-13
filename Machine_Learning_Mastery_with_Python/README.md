@@ -1,49 +1,37 @@
-# Introduction to Time Series Forecasting with Python
+# Machine Learning Mastery with Python
 
-This folder contains my notes and Jupyter notebooks based on the book `Introduction to Time Series Forecasting with Python` by Jason Brownlee.
+This folder contains my notes and Jupyter notebooks based on the book `Machine Learning Mastery with Python` by Jason Brownlee.
 
-The goal is to reinforce concepts and provide hands-on implementations of classical and modern time series forecasting techniques using Python.
+The goal is to reinforce concepts and provide hands-on implementations of applied machinea learning techniques with Python.
 
 ## 📖 Contents 
-Part II. Data Preparation
-- Chapter 5 – Basic Feature Engineering
-- Chapter 6 - Data Visualization
-- Chapter 7 - Resampling and Interpolation
-- Chapter 8 - Power Transforms
-- Chapter 9 - Moving Average Smoothing
-  
-Part III. Temporal Structure
-- Chapter 10 - A Gentle Introduction to White Noise
-- Chapter 11 - A Gentle Introduction to the Random Walk
-- Chapter 12 - Decompose Time Series Data
-- Chapter 13 - Use and Remove Trends
-- Chapter 14 - Use and Remove Seasonality
-- Chapter 15 - Stationarity in Time Series Data
+Part II. Lessons
+- Chapter 3 – Crash Course in Python and Scipy
+- Chapter 4 - How To Load Machine Learning Data
+- Chapter 5 - Understand Your Data With Descriptive Statistics
+- Chapter 6 - Understand Your Data With Visualization
+- Chapter 7 - Prepare Your Data For Machine Learning
+- Chapter 8 - Feature Selection For Machine Learning
+- Chapter 9 - Evaluate the Performance of Machine Learning Algorithms with Resampling
+- Chapter 10 - Machine Learning Algorithm Performance Metrics
+- Chapter 11 - Spot-Check Classification Algorithms
+- Chapter 12 - Spot-Check Regression Algorithms
+- Chapter 13 - Compare Machine Learning Algorithms
+- Chapter 14 - Automate Machine Learning Workflows with Pipelines
+- Chapter 15 - Improve Performance with Ensembles
+- Chapter 16 - Improve Performance with Algorithm Tuning
+- Chapter 17 - Save and Load Machine Learning Models
+ 
+Part III. Projects
+- Chapter 18 - Predictive Modeling Project Template
+- Chapter 19 - Your First Machine Learning Project in Python Step-By-Step
+- Chapter 20 - Regression Machine Learning Case Study Project
+- Chapter 21 - Binary Classification Machine Learning Case Study Project
+- Chapter 22 - More Predictive Modeling Projects
 
-Part IV. Evaluate Models
-- Chapter 16 - Backtest Forecast Models
-- Chapter 17 - Forecasting Performance Measures
-- Chapter 18 - Persistence Model for Forecasting
-- Chapter 19 - Visualize Residual Forecast Errors
-- Chapter 20 - Reframe Time Series Forecasting Problems
-
-Part V. Forecast Models
-- Chapter 21 - A Gentle Introduction to the Box-Jenkins Method
-- Chapter 22 - Autoregression Models for Forecasting
-- Chapter 23 - Moving Average Models for Forecasting
-- Chapter 24 - ARIMA Model for Forecasting
-- Chapter 25 - Autocorrelation and Partial Autocorrelation
-- Chapter 26 - Grid Search ARIMA Model Hyperparameters
-- Chapter 27 - Save Models and Make Predictions
-- Chapter 28 - Forecast Confidence Intervals
-
-Part VI. Projects
-- Chapter 30 - Project: Monthly Armed Robberies in Boston
-- Chapter 31 - Project: Annual Water Usage in Baltimore
-- Chapter 32 - Project: Monthly Sales of French Champagne
 
 
 
 ## 🚀 How to Run
 ```bash
-jupyter notebook chapter_5.ipynb
+jupyter notebook chapter_3.ipynb
